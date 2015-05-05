@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Synth.UI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HansenReportingServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BESREPORTS</Value>
+    </Setting>
+    <Setting Name="GetSanitaryPipesUSPName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dbo.USP_SYNTH_GET_SANITARY_PIPES</Value>
+    </Setting>
+    <Setting Name="GetStormDitchesUSPName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dbo.USP_SYNTH_GET_STORM_DITCHES</Value>
+    </Setting>
+    <Setting Name="GetStormPipesUSPName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dbo.USP_SYNTH_GET_STORM_PIPES</Value>
+    </Setting>
+    <Setting Name="MasterNodesFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\CASSIO\Modeling\SAMaster_22\Nodes\mst_nodes_ac.mdb</Value>
+    </Setting>
+    <Setting Name="MasterLinksFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\CASSIO\Modeling\SAMaster_22\Links\mst_links_ac.mdb</Value>
+    </Setting>
+    <Setting Name="AddressName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\CASSIO\Modeling\AGTools\reconcile\ADDRESS_GEOCODED.csv</Value>
+    </Setting>
+    <Setting Name="StoredProcsDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ASM_REPORTS</Value>
+    </Setting>
+    <Setting Name="LogFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">synth.log</Value>
+    </Setting>
+    <Setting Name="SynthFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LastDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DifferencesFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LogSeverity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Info</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
